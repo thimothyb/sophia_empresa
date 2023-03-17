@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="44.672" viewBox="0 0 53 44.672">
+  <defs>
+    <filter id="Icon_awesome-sign-out-alt" x="0" y="0" width="53" height="44.672" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-sign-out-alt)">
+    <path id="Icon_awesome-sign-out-alt-2" data-name="Icon awesome-sign-out-alt" d="M34.516,20.639,22.848,32.306A1.669,1.669,0,0,1,20,31.126V24.459H10.556a1.663,1.663,0,0,1-1.667-1.667V16.125a1.663,1.663,0,0,1,1.667-1.667H20V7.791a1.67,1.67,0,0,1,2.847-1.181L34.516,18.278A1.681,1.681,0,0,1,34.516,20.639ZM13.334,31.959V29.181a.836.836,0,0,0-.833-.833H6.667a2.22,2.22,0,0,1-2.222-2.222V12.791a2.22,2.22,0,0,1,2.222-2.222H12.5a.836.836,0,0,0,.833-.833V6.958a.836.836,0,0,0-.833-.833H6.667A6.669,6.669,0,0,0,0,12.791V26.125a6.669,6.669,0,0,0,6.667,6.667H12.5A.836.836,0,0,0,13.334,31.959Z" transform="translate(9 -0.12)" fill="#fff"/>
+  </g>
+</svg>
